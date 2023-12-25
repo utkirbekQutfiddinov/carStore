@@ -3,5 +3,6 @@ package pdp;
 public class Muhammadanas {
     public static void main(String[] args) {
         System.out.println("I am Muhammadanas :) ");
+
     }
 }
