@@ -1,11 +1,7 @@
-package pdp;
+package pdp.asadbek;
 
-public class Main {
+public class Asadbek {
     public static void main(String[] args) {
-
-
-
-
 
     }
 }
